@@ -6,8 +6,8 @@ from dateutil.parser import parse
 import os
 
 # Настройки
-BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'  # Токен вашего бота
-CHANNEL_ID = '-100XXXXXXXXXX'  # ID канала (начинается с "-100...")
+BOT_TOKEN = '7807114637:AAHMlbnGIz7CFEY1_zsQwr83GcwpyBSFVFY'  # Токен вашего бота
+CHANNEL_ID = '2628454818'  # ID канала (начинается с "-100...")
 DATA_FILE = 'concerts.json'  # Файл для хранения данных
 HTML_FILE = 'index.html'  # HTML-файл для сайта
 
